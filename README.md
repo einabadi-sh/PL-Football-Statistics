@@ -1,5 +1,4 @@
-# PL - Dashboard
-# PL-Football-Statistics
+# PL - Dashboard - Football-Statistics
 
 ## Main page
 ![screencapture-2](https://user-images.githubusercontent.com/27699259/49130108-4cae9880-f2a0-11e8-8d16-923f1c067d20.png)
